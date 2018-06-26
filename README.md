@@ -1,5 +1,5 @@
-Richeese Transformator
-=======================
+# Richeese Transformator
+----
 ## Description
 This repository is a task for IF2123 Algebraic Geometry, Department of Informatics, School of Electrical Engineering and Informatics, Bandung Institute of Technology. Program in CLI-form to calculate and visualize 2D plane linear transformation. Built using Python 2.7 and OpenGL Library (GL,GLU,GLUT). Linear transformation that can be visualized including translation, rotation, reflection, dilation, shear, stretch, and custom transformation matrix.
 
@@ -15,6 +15,7 @@ This repository is a task for IF2123 Algebraic Geometry, Department of Informati
 	==========================CHRISTIAN WIBISONO-13516147===========================
 
 			   Copyright Eric Jonathan & Christian Wibisono
+----
 ## Requirements
 * Python 2.7
 * OpenGL
@@ -22,7 +23,7 @@ This repository is a task for IF2123 Algebraic Geometry, Department of Informati
 ## Installation
 * Download freeglut.dll and put it in your main.py folder
 
-## How to run
+## Running
 `python main.py`
 
 ## Usage
